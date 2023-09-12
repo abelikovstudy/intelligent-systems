@@ -1,0 +1,3 @@
+﻿  ai-lab01.cpp
+C:\Users\user\source\repos\ai-lab01\ai-lab01\ai-lab01.cpp(30,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ai-lab01.vcxproj -> C:\Users\user\source\repos\ai-lab01\x64\Debug\ai-lab01.exe
